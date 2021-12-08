@@ -1,4 +1,4 @@
-# Webentwurfprogramm
+# Weaving Pattern Editor
 This is a simple software to create weaving patterns for looms.
 
 This is a practice program I wrote as part of my Java OCA course.
